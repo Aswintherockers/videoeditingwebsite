@@ -124,6 +124,22 @@ With these instructions, you should be able to set up and install the SnapEdit V
 ![Screenshot (167)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/f7d5535c-180d-4e39-b118-be77a64d577e)
 ![Screenshot (166)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/db4b7e20-d5fc-4e31-8863-09cd158e278e)
 ![Screenshot (165)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/6f2c0c1c-3c30-43ef-aa29-c77eaf7c5bb3)
+![Screenshot 2023-08-12 140349](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/8f22dcb6-6523-4289-9839-df1def5822fb)
+![Screenshot (183)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/283b1a80-acff-45ba-9743-1896e67fce98)
+![Screenshot (182)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/11986f24-c7ec-4ce1-9f2d-84fc6b0de5bf)
+![Screenshot (181)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/0cb528a5-aa3c-4de8-8513-e463535ecb0a)
+![Screenshot (180)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/f97718be-efce-40a8-91ad-dbc81cef3753)
+![Screenshot (179)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/7b72fb61-d965-433b-881c-fcd528b541e5)
+![Screenshot (178)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/5599f0dd-9b38-4531-9054-21c163f63b7c)
+![Screenshot (177)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/5e5d2925-4a6b-45dc-88bb-dd118aed33e6)
+![Screenshot (176)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/9cc7f74a-37df-43d1-a2cb-3a66d504a1a3)
+![Screenshot 2023-08-12 140240](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/710c05e4-d55d-4a6a-989d-309d598a7bcd)
+![Screenshot (175)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/f7cdb113-269c-4386-b8c7-f9fb5d9552fb)
+![Screenshot (174)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/db15af15-2c6e-4e9d-8890-4810472186ca)
+![Screenshot (173)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/c0ee7c64-37f8-4e59-b562-f38893b7eca2)
+![Screenshot (172)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/640486bc-3bdf-47ff-90d8-b0b7b4693ff3)
+![Screenshot (171)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/8a3af37f-1317-42ec-ab51-5ae8334e459c)
+
 
 
 
