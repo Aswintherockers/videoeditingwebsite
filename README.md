@@ -37,7 +37,7 @@ Follow these steps to install SnapEdit on your system:
    Open a terminal window and navigate to the directory where you want to install SnapEdit. Then, execute the following command to clone the project repository from GitHub:
 
    ```
-   git clone https://github.com/your-username/snapedit.git
+https://github.com/Aswintherockers/videoeditingwebsite
    ```
 
 2. **Create a Virtual Environment:**
