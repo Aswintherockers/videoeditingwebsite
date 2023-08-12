@@ -117,7 +117,14 @@ Make sure to review the configuration options and update them as required before
 
 With these instructions, you should be able to set up and install the SnapEdit Video Editing Website on your local environment. Remember to consult the documentation for any specific platform-dependent details or troubleshooting steps that might arise during the installation process.
 ##Images:
-![Screenshot (181)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/808c16a8-e990-4ea1-b654-0d30ceb0ba3b)
+![Screenshot (170)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/5731b68a-0f02-4d22-abef-3c6f95dc7cf7)
+![Screenshot 2023-08-12 135256](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/dc42e158-ea2a-4e7f-8a7d-fce6c5dd8f50)
+![Screenshot (169)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/20ac9bb3-ce4f-4cd3-8efb-da8e06efabd9)
+![Screenshot (168)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/61260780-5102-4874-afe9-f22023b080e1)
+![Screenshot (167)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/f7d5535c-180d-4e39-b118-be77a64d577e)
+![Screenshot (166)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/db4b7e20-d5fc-4e31-8863-09cd158e278e)
+![Screenshot (165)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/6f2c0c1c-3c30-43ef-aa29-c77eaf7c5bb3)
+
 
 
 
