@@ -202,8 +202,9 @@ Integrate with popular cloud storage platforms for easy access to video files.
 
 Feel free to customize these sections with more specific details about your project, its features, and future plans. This guide will provide users and contributors with a comprehensive understanding of the SnapEdit Video Editing Website and how they can get involved.
 
-
 License:
 https://github.com/Aswintherockers
+
 ##Contact Information
 https://github.com/Aswintherockers
+https://www.linkedin.com/in/aswin-kumar-r-b85381200/
