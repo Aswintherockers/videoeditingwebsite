@@ -122,25 +122,8 @@ Make sure to review the configuration options and update them as required before
 
 With these instructions, you should be able to set up and install the SnapEdit Video Editing Website on your local environment. Remember to consult the documentation for any specific platform-dependent details or troubleshooting steps that might arise during the installation process.
 ##Images:
-![Screenshot 2023-08-12 140349](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/6d9ec3c2-11f7-4611-8085-61630fe9a2f4)
-![Screenshot (183)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/9d6cf22f-f5ed-4239-a9fc-773a00c2a259)
-![Screenshot (182)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/ccc24789-01ff-4731-b5b1-8582aaea2dce)
-![Screenshot (181)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/82f8d316-c8a8-4f39-9d48-1a0015dba392)
-![Screenshot (180)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/8994ece8-70c3-45aa-8987-aff1268028d1)
-![Screenshot (179)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/a90dc191-abe9-4339-b268-1d22090eba81)
-![Screenshot (178)](https://github.com/Aswintherockers/videoeditingwebsite/assets/1103
-![Screenshot (169)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/ab831682-2241-42a6-9c45-0ea08e954564)
-34860/3292dd08-6eac-4f99-ae54-dbcce08fc0f2)
-![Screenshot (177)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/8a6274e7-9b4a-4b4d-a4c7-04c6312b061e)
-![Screenshot (176)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/28d054ab-137b-4bda-973e-4f47633b547f)
-![Screenshot 2023-08-12 140240](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/bdce1060-65f1-461b-b6ed-090ee9155b4c)
-![Screenshot (175)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/e574f8b4-908d-4cb9-b325-858e557d40a9)
-![Screenshot (174)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/a250e481-a4b7-48af-8045-9b70d015e561)
-![Screenshot (173)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/eafbe766-e187-4a54-8535-07cee88594cd)
-![Screenshot (172)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/f5c4650d-6f21-4a02-81bd-c2f545de1234)
-![Screenshot (171)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/b03b2a3d-b5f3-4234-92e2-61f2e5cd11a6)
-![Screenshot (170)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/f4ce0f40-f978-4590-be51-40cb73260387)
-![Screenshot 2023-08-12 135256](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/2fe43d07-9d97-49d2-a452-7f527c2d1c31)
+![Screenshot (165)](https://github.com/Aswintherockers/videoeditingwebsite/assets/110334860/39293e3d-d719-4dd7-acc0-a591d2d01da4)
+
 
 
 
