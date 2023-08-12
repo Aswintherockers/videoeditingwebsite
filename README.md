@@ -39,11 +39,6 @@ SnapEdit's configuration can be customized to suit your preferences. Configurati
 Make sure to review the configuration options and update them as required before running the application.
 ---
 With these instructions, you should be able to set up and install the SnapEdit Video Editing Website on your local environment. Remember to consult the documentation for any specific platform-dependent details or troubleshooting steps that might arise during the installation process.
-
-
-Certainly! Here's a guide for each of the sections you've listed:
-
----
 Certainly! Here's a guide for the "Setup and Installation" section of your project documentation:
 
 ---
@@ -71,7 +66,7 @@ Follow these steps to install SnapEdit on your system:
    Open a terminal window and navigate to the directory where you want to install SnapEdit. Then, execute the following command to clone the project repository from GitHub:
 
    ```
-https://github.com/Aswintherockers/videoeditingwebsite
+   git clone https://github.com/your-username/snapedit.git
    ```
 
 2. **Create a Virtual Environment:**
@@ -110,7 +105,7 @@ https://github.com/Aswintherockers/videoeditingwebsite
    ```
 
 7. **Access the Website:**
-   Open your web browser and navigate to `http://localhost:5000` to access the SnapEdit Video Editing Website.
+   Open your web browser and navigate to `http://localhost:3000` to access the SnapEdit Video Editing Website.
 
 ### Configuration
 
