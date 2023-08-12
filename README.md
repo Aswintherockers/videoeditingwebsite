@@ -1,4 +1,4 @@
-
+##Project title:"SnapLab: Your Ultimate Video Editing Studio"
 # videoeditingwebsite
  The project  source code fully uploaded in the drive link :https://drive.google.com/drive/folders/1TafqFmG5sGmnW3XIKVc4w-E5GlhiHOYr
 SnapEdit's configuration can be customized to suit your preferences. Configuration settings are stored in the `config.py` file in the project directory. You can modify settings such as database connection, secret key, and more according to your needs.
