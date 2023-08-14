@@ -46,7 +46,7 @@ Certainly! Here's a guide for the "Setup and Installation" section of your proje
 ## Setup and Installation
 
 Setting up and installing the SnapEdit Video Editing Website is a straightforward process. This section provides information on the system requirements, installation instructions, and configuration steps to get the platform up and running.
-
+The main thing you must already  have a pycharm ide,wamp server if not you have means use the above drive link to given take it and the full source code also give in the drive link:https://drive.google.com/drive/folders/1TafqFmG5sGmnW3XIKVc4w-E5GlhiHOYr
 ### System Requirements
 
 Before installing SnapEdit, ensure that your system meets the following requirements:
