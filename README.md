@@ -84,7 +84,7 @@ Follow these steps to install SnapEdit on your system:
    ```
    pip install -r requirements.txt
    ```
-
+"In that you install the wamp server in task bar "up arrow icon" is there you must click taht icon and the wamp server  it's like a spedometer like symbol you must click it and "put online " to  be given." 
 4. **Database Configuration:**
    Set up your MySQL or PostgreSQL database and create a database for SnapEdit. Update the database configuration settings in the `config.py` file.
 
